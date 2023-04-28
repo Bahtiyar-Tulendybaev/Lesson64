@@ -1,6 +1,5 @@
 const list = document.querySelector('ul');
 list.addEventListener('dblclick', function (ev) {
-
     if(ev.target.tagName === "LI") {
         ev.target.classList.toggle('checked');
         toLocal();
