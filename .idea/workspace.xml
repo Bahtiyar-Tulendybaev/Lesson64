@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462b0a38-9602-4979-9fd7-fa36520c93c7" name="Changes" comment="add script.js">
-      <change afterPath="$PROJECT_DIR$/js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="462b0a38-9602-4979-9fd7-fa36520c93c7" name="Changes" comment="added HTML and CCS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +63,7 @@
       <workItem from="1682656525790" duration="1190000" />
       <workItem from="1682676274275" duration="1547000" />
       <workItem from="1682705241462" duration="614000" />
-      <workItem from="1682869174827" duration="2587000" />
+      <workItem from="1682869174827" duration="2913000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1682655858165</created>
@@ -84,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682655911981</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added HTML and CCS">
+      <created>1682872237437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682872237437</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="add script.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add script.js" />
+    <MESSAGE value="added HTML and CCS" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HTML and CCS" />
   </component>
 </project>
