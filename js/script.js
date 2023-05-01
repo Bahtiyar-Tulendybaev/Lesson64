@@ -15,7 +15,8 @@ form.addEventListener('submit', function(e) {
         newTask.addEventListener('dblclick', function() {
             newTask.classList.toggle('checked');
         });
-    }
+    }else
+        alert("Введите вашу задачу!");
 });
 
 
